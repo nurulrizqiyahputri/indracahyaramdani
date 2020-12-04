@@ -24,7 +24,9 @@
 - [**Coursera**](https://github.com/eliyanto29/Coursera) - *Share what I have learn in awesome Courseera Learning Platform*
 - [**My Academics Paper**](https://github.com/eliyanto29/My-Academics-Paper-On-Data-Science) - *Place for my academics paper for free*
 -->
-
+<br>
+<br>
+<br>
 
 ### 📱 You Can Reach Me at
 <!--<p>
@@ -35,9 +37,6 @@
   <a href="https://www.facebook.com/iendra.wonxbankunix/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231da1f2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </p>-->
 
-<br>
-
-<br>
 <br>
 
 <p align="center">
