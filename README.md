@@ -43,8 +43,8 @@
   <a href="https://discord.gg/gMEFkyhG">
     <img src="https://img.shields.io/discord/764845482257285140?logo=discord&style=for-the-badge" />
   </a>
-  <a href="http://youtube.com/eddiejaoude?sub_confirmation=1">
-    <img src="https://img.shields.io/youtube/views/2IzRSHT5Hw8?label=YouTube&logo=YouTube&style=for-the-badge" />
+  <a href="http://youtube.com/IndraSwaterez?sub_confirmation=1">
+    <img src="https://img.shields.io/youtube/views/eWmUaGlkBEQ?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
 </p>
 
