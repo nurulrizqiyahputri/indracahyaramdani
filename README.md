@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/discord/764845482257285140?logo=discord&style=for-the-badge" />
   </a>
   <a href="https://www.youtube.com/watch?v=zsHGZ3ZYzoM">
-    <img src="https://img.shields.io/youtube/views/eWmUaGlkBEQ?label=YouTube&logo=YouTube&style=for-the-badge" />
+    <img src="https://img.shields.io/youtube/views/zsHGZ3ZYzoM?label=YouTube&logo=YouTube&style=for-the-badge" />
   </a>
    <a href="https://instagram.com/indrawiharjaa_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23f21d37.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
