@@ -1,46 +1,56 @@
-### Hi, I'm Indra Cahya Ramdani 👋
-
-[![Linkedin: circassia](https://img.shields.io/badge/-Mukharbek%20Organokov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/circassia/)](https://www.linkedin.com/in/circassia/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/circassia_ai?label=circassia_ai)](https://twitter.com/circassia_ai)
-[![GitHub followers](https://img.shields.io/github/followers/kabartay?style=social)](https://github.com/kabartay)
-[![GitHub](https://img.shields.io/github/followers/kabartay?label=kabartay)](https://github.com/kabartay)
-[![Kaggle Badge](https://img.shields.io/badge/-muhakabartay-teal?style=flat&logo=kaggle&logoColor=deepblue&link=https://www.kaggle.com/muhakabartay)](https://www.kaggle.com/muhakabartay)
-[![Medium Badge](https://img.shields.io/badge/-circassia_ai-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai)
-![Profile views](https://gpvc.arturio.dev/kabartay)
 
 
-#### About me  
-- 📡 I'm Doctor of Philosophy in Astrophysics (Université de Strasbourg)
-- 📡 I'm Master of Science in High Energy Physics (École Polytechnique) 
-- 🔭 I'm currently working as a Data Scientist
-- 🤓 I'm co-mentoring Machine Learning Crash Course (SPbSPU Polytech)
-- 🤓 I'm mentoring in Kaggle BIPOC Grant Program (2 mentees)
-- 📫 How to reach me: by email organokov.m@gmail.com
+<img align='right' src = "https://github-readme-stats.vercel.app/api?username=indracahyaramdani&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=15">
 
-<!--
-#### My research and interests
-[![](https://img.shields.io/badge/ORCID-informational?style=flat&logo=ORCID&logoColor=white&color=A6CE39)](https://orcid.org/0000-0002-3093-3456)
-[![](https://img.shields.io/badge/Scopus-informational?style=flat&logo=scopus&logoColor=white&color=E9711C)](https://www.scopus.com/authid/detail.uri?authorId=57194618351) 
-[![](https://img.shields.io/badge/Publons-informational?style=flat&logo=Publons&logoColor=white&color=336699)](https://publons.com/researcher/2079516/mukharbek-organokov/) 
-[![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=inspirehep&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1609916) 
-[![](https://img.shields.io/badge/GoogleScholar-informational?style=flat&logo=Google-Scholar&logoColor=white&color=4285F4)](https://scholar.google.com/citations?user=jYZaDVoAAAAJ&hl=en) 
--->
+
+
+# Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Indra Cahya Ramdani 
+
+<p align="justify">
+  I am mathematicians who passionate to be a data scientist. I love to learn Data Visualization, Big Data, Machine Learning, Data Mining, R programming, Python programming and other data science topics.
+</p>
+
+<br> 
+<br>
+<img align='right' src = "https://github-readme-stats.vercel.app/api/top-langs/?username=indracahyaramdani&show_icons=true&show_icons=true&title_color=fff&icon_color=0BB7F3&text_color=9f9f9f&bg_color=151515&line_height=15&line_width=15">
+
+
+
+### ✨ My Top Repositories
 
 <!--
-TODO
-INSPIRE done, my own color selected by eye
-[![](https://img.shields.io/badge/INSPIREhep-informational?style=flat&logo=Publons&logoColor=white&color=0c1c29)](https://inspirehep.net/authors/1609916) 
-
-StackOverflow badge 
-DataCamp: https://www.datacamp.com/profile/kabartay
-EdX: https://profile.edx.org/u/muha07
-Coursera: https://www.coursera.org/user/ae01c80a9ada49571cd6318b7990845d (put more settings to Coursera first)
+- [**My Personal Projects**](https://github.com/eliyanto29/My-Personal-Projects) - *Here is place to share my personal projects that I have done*
+- [**DQLab**](https://github.com/eliyanto29/DQLab) - *Share what I have learn in awesome DQ-Lab Learning Platform*
+- [**Coursera**](https://github.com/eliyanto29/Coursera) - *Share what I have learn in awesome Courseera Learning Platform*
+- [**My Academics Paper**](https://github.com/eliyanto29/My-Academics-Paper-On-Data-Science) - *Place for my academics paper for free*
 -->
+<br>
+<br>
+<br>
 
+### 📱 You Can Reach Me at
+<!--<p>
+  <a href="https://www.linkedin.com/in/indra-cahya-ramdani-5178881a3/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/indracahyaramdani" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://instagram.com/indrawiharjaa_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23f21d37.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://twitter.com/indracahyaram23" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231da1f2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.facebook.com/iendra.wonxbankunix/" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/facebook-%231da1f2.svg?&style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</p>-->
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue)](https://github.com/kabartay/github-readme-stats)  
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=kabartay&theme=blue)
+<br>
 
+<p align="center">
+  <a href="https://github.com/indracahyaramdani?tab=followers">
+    <img src="https://img.shields.io/github/followers/indracahyaramdani?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
+  </a>
+  <a href="http://twitter.com/indracahyaram23">
+    <img src="https://img.shields.io/twitter/follow/indracahyaram23?label=Twitter&logo=twitter&style=for-the-badge" />
+  </a>
+  <a href="https://discord.gg/gMEFkyhG">
+    <img src="https://img.shields.io/discord/764845482257285140?logo=discord&style=for-the-badge" />
+  </a>
+   <a href="https://instagram.com/indrawiharjaa_" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/instagram-%23f21d37.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>
+</p>
 
 #### My favourite languages & tools
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB)
@@ -60,25 +70,3 @@ Coursera: https://www.coursera.org/user/ae01c80a9ada49571cd6318b7990845d (put mo
 ![](https://img.shields.io/badge/NumPy-informational?style=flat&logo=numpy&logoColor=white&color=013243)
 ![](https://img.shields.io/badge/SciPy-informational?style=flat&logo=scipy&logoColor=white&color=8CAAE6)
 ![](https://img.shields.io/badge/ScikitLearn-informational?style=flat&logo=scikit-learn&logoColor=white&color=F7931E)
-
-
-<!--
-**kabartay/kabartay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-- 🔭 I’m currently working ...
-- 🌱 I’m currently learning ...
-- 🌱 I'm currently learning MIT MicroMaster: [Statistics and Data Science](https://micromasters.mit.edu/ds)
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-[![Twitter Follow](https://img.shields.io/twitter/follow/circassia_ai?label=Follow)](https://twitter.com/circassia_ai)
-[![Ods.ai Badge](https://img.shields.io/badge/-muhakabartay-white?style=flat&logo=odsai&logoColor=crimson&link=https://ods.ai/users/ae6a50f2c4fb)](https://ods.ai/users/ae6a50f2c4fb)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kabartay&theme=blue-green)](https://github.com/kabartay/github-readme-stats)
-[![Medium Badge](https://badgen.net/badge/icon/medium?icon=medium&label)](https://medium.com/@circassia_ai)
-Customizable Badge
-[![Medium Badge](https://img.shields.io/badge/@circassia_ai-black?style=flat&logo=medium&logoColor=white&link=https://medium.com/@circassia_ai)](https://medium.com/@circassia_ai)
-[![circassia_ai StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=7302404)](https://stackoverflow.com/users/7302404/circassia_ai)
-Search colors here https://simpleicons.org/?q=r
--->
